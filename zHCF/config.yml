@@ -1,0 +1,49 @@
+#MESSAGES
+messages.nopermission: "&cYou do not have permissions to execute this command!."
+
+#Help
+help:
+ - '&3&m------------------------------------'
+ - '&b&lPUT YOUR HELP'
+ - '&b&lHELP HERE'
+ - '&3&m------------------------------------'
+ 
+#Rules
+rules:
+ - '&3&m------------------------------------'
+ - '&b&lPUT YOUR RULES'
+ - '&b&lRULES HERE'
+ - '&3&m------------------------------------'
+ 
+#Coords
+coords:
+- '&7&m     &8&m     &7&m     &8&m     &7&m     &8&m     &7&m     &8&m     &7&m     &8&m     &7&m     &8&m     &7&m     &8&m     &7&m     &8&m     ' 
+- ' &e&lImportant coordinates (x,z)'
+- ' &7- &aSpawn&7: 0 , 0'
+- ' &7- &3Towers Koth&7: 500 , 500'
+- ' &7- &3Islands Koth&7: -500 , 500'
+- ' &7- &3Moon Koth&7: 500 , -500'
+- ' &7- &3End Koth&7: -80, 90 (End)'
+- ' &7- &3&lConquest&7: -500 , -500'
+- ' &7- &cEnd Portal&7: 700 , 700 (All quadrants)'
+- '&7&m     &8&m     &7&m     &8&m     &7&m     &8&m     &7&m     &8&m     &7&m     &8&m     &7&m     &8&m     &7&m     &8&m     &7&m     &8&m     '
+ 
+#TeamSpeak
+teamspeak:
+ - '&3&m------------------------------------'
+ - '&b&lPUT YOUR TEAMSPEAK'
+ - '&3&m------------------------------------'
+ 
+#Store
+store:
+ - '&3&m------------------------------------'
+ - '&b&lPUT YOUR STORE'
+ - '&3&m------------------------------------'
+ 
+ #FreezeMessage
+freeze:
+- '&7&m     &8&m     &7&m     &8&m     &7&m     &8&m     &7&m     &8&m     &7&m     &8&m     &7&m     &8&m     &7&m     &8&m     &7&m     &8&m     '
+- '                          &4&lACHTUNG! ACHTUNG!                        '
+- '                         &bYou have been &cFROZEN&b.                    '
+- '                 &bJoin our teamspeak at: &cts.example.com             ' 
+- '&7&m     &8&m     &7&m     &8&m     &7&m     &8&m     &7&m     &8&m     &7&m     &8&m     &7&m     &8&m     &7&m     &8&m     &7&m     &8&m     '

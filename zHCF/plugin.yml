@@ -1,0 +1,31 @@
+name: zHCF
+main: us.imarco.zhcf.Main
+version: 1.0
+author: iMarco
+description: Core for HCFActions
+commands:
+   ores:
+   zhcf:
+   help:
+   rules:
+   teamspeak:
+       aliases: [ts]
+   store:
+   coords:
+   broadcast:
+       aliases: [bc, alert]
+   chatclear:
+       aliases: [cc, clearchat]
+   enablechat:
+       aliases: [chatenable]
+   disablechat:
+       aliases: [chatmute]
+   r:
+   msg:
+       aliases: [m, message]
+   report:
+       usage: /<command> <player> <reason>
+   freeze:
+       aliases: [ss]
+   lff:
+   ping:    
